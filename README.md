@@ -7,7 +7,7 @@
 
 * FireBase
 
-https://taks-392bd.web.app/
+https://taks-392bd.firebaseapp.com/
 
 
 
