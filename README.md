@@ -5,13 +5,14 @@
 
 # Despliegue
 
-* Azure
+* FireBase
 
-https://ietilab3.z13.web.core.windows.net/
+https://taks-392bd.web.app/
+
 
 * Heroku
 
-https://tranquil-headland-51286.herokuapp.com/
+
 
 ------
 
