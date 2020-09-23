@@ -10,9 +10,6 @@
 https://taks-392bd.web.app/
 
 
-* Heroku
-
-
 
 ------
 
