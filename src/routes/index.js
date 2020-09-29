@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import {Login} from '../component/Login';
 import {MainPage} from '../component/MainPage';
 import {UserProfile} from '../component/UserProfile';
+import {Users} from '../component/Users';
 
 export class Routes extends Component{
 
@@ -17,6 +18,7 @@ export class Routes extends Component{
                     <Route path="/" exact component = {Login} />
                     <Route path="/mainpage" exact component = {MainPageView} />
                     <Route path="/userprofile" exact component = {UserProfile} />
+                    <Route path="/users" exact component = {Users} />
                 </Switch>
             </Router>
         )

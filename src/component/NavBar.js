@@ -98,8 +98,10 @@ export function NavBar(){
             </IconButton>
             <Typography variant="h6" className={classes.title}>
               <Button style={{fontSize: '20px'}} color="inherit" href="/mainpage">Taks</Button>
+              <Button style={{fontSize: '20px'}} color="inherit" href="/users">Users</Button>
+              <Button style={{fontSize: '20px'}} color="inherit" href="/userprofile">Update Profile</Button>
             </Typography>
-            <Button color="inherit" href="/userprofile">Update Profile</Button>
+            
             <Button color="inherit" href="/">Exit</Button>
           </Toolbar>
         </AppBar>
